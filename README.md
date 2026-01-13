@@ -7,10 +7,7 @@
   
   [![Status](https://img.shields.io/badge/Status-100%25%20Bucin-pink.svg?style=for-the-badge)](https://github.com/)
 
-  <br>
-
-  **Web app *low budget* hasil gabut. Spesial buat kamu.** <br>
-  Gak usah tanya cara pakainya gimana, tinggal klik-klik aja.
+<br>
 
   <img src="https://media.tenor.com/O9sH8Qo4tqIAAAAi/milk-dragon-dancing.gif" width="100%" style="border-radius: 20px; max-width: 400px; margin-top: 20px;" alt="Nailong Dancing">
 
