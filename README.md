@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="https://media.tenor.com/t7AQA29i54kAAAAi/milk-dragon-nailong.gif" width="180" alt="Nailong Running">
+  <img src="nailong-yellow-dragon.gif" width="180" alt="Nailong Running">
 
   # 🦖 Nata 🦖
   
